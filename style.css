@@ -1,0 +1,9 @@
+.wrap {
+	font-size: 12px;
+	border: 1px solid #ddd;
+	padding: 30px;
+}
+.wrap .logo {
+	background: transparent url(logo.jpg) no-repeat left center;
+	height:60px;
+}
